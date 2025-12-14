@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "hello world!"
 #abs
-abc
+#abc
 
 echo "hello peter"
